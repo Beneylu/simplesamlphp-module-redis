@@ -1,0 +1,10 @@
+{
+  "name": "beneylu-school/simplesamlphp-module-redis",
+  "description": "SimpleSAMLphp module to have a Redis sentinel data Store",
+  "type": "simplesamlphp-module",
+  "require": {
+    "php": ">=5.4.0",
+    "predis/predis": "~1.0",
+    "simplesamlphp/composer-module-installer": "~1.0"
+  }
+}
