@@ -6,7 +6,7 @@ $config = array (
     // Redis server options used to initialize Predis\Client
     'redis.options' => null,
     // Redis Client class default to Predis\Client
-    'reids.client.class' => '\BNS\CommonBundle\Redis\PredisClient',
+    'redis.class' => '\BNS\CommonBundle\Redis\PredisClient',
     // Key prefix
     'prefix' => 'saml:',
     // Lifitime for all non expiring keys
