@@ -1,5 +1,5 @@
 {
-  "name": "beneylu-school/simplesamlphp-module-redis",
+  "name": "beneylu/simplesamlphp-module-redis",
   "description": "SimpleSAMLphp module to have a Redis sentinel data Store",
   "type": "simplesamlphp-module",
   "require": {
